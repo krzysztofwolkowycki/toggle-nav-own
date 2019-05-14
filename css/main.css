@@ -1,0 +1,7 @@
+.nav-page{
+    display: none;
+}
+
+.nav-page.active{
+    display: block;
+}
